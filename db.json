@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": 1, "name": "سيروم فيتامين سي", "price": "120 ر.س", "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500&q=80", "rating": 5, "category": "serum" },
+    { "id": 2, "name": "كريم مرطب ليلي", "price": "95 ر.س", "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=500&q=80", "rating": 4, "category": "cream" },
+    { "id": 3, "name": "غسول طبيعي للبشرة", "price": "60 ر.س", "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=500&q=80", "rating": 5, "category": "cleanser" },
+    { "id": 4, "name": "واقي شمس SPF 50", "price": "150 ر.س", "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=500&q=80", "rating": 4, "category": "sunscreen" },
+    { "id": 5, "name": "زيت الأرغان العضوي", "price": "200 ر.س", "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&q=80", "rating": 5, "category": "natural" },
+    { "id": 6, "name": "ماسك الطين المنقي", "price": "85 ر.س", "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=500&q=80", "rating": 4, "category": "cream" },
+    { "id": 7, "name": "صابون زبدة الشيا العضوي", "price": "45 ر.س", "image": "https://images.unsplash.com/photo-1607006342456-ba275cd3474c?w=500&q=80", "rating": 5, "category": "soap" },
+    { "id": 8, "name": "صابون زيت الزيتون والغار", "price": "35 ر.س", "image": "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?w=500&q=80", "rating": 4, "category": "soap" }
+ ]
+}
